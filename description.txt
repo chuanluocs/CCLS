@@ -1,0 +1,19 @@
+Software Name: CCLS
+
+Version: MSE2016
+
+Authors: Chuan Luo [1][2], Shaowei Cai [3], Kaile Su [4][5], Wei Wu [6], Zhong Jie [7]
+
+Institutes: [1] Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+            [2] School of Electronics Engineering and Computer Science, Peking University, Beijing, China
+            [3] State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China
+            [4] Department of Computer Science, Jinan University, Guangzhou, China
+            [5] Institute for Integrated and Intelligent Systems, Griffith University, Brisbane, Australia
+            [6] Center for Quantum Computation and Intelligent Systems, University of Technology, Sydney, Sydney, Australia
+            [7] NetEase, Inc., Hangzhou, China
+
+Corresponding Paper:
+Chuan Luo, Shaowei Cai, Wei Wu, Zhong Jie, Kaile Su. CCLS: An Efficient Local Search Algorithm for Weighted Maximum Satisfiability. IEEE Transactions on Computers 64(7): 1830-1843 (2015)
+
+Note: The operating system for compiling and running the CCLS solver should be 64-bit GNU/Linux.
+            
